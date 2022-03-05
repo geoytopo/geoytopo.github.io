@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Desarrollo, Geomática y Topografía</title>
-    <link>http://geoytopo.com/services/</link>
+    <link>https://geoytopo.github.io/services/</link>
     <description>Recent content in Services on Desarrollo, Geomática y Topografía</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 20:46:39 -0500</lastBuildDate><atom:link href="http://geoytopo.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2020 20:46:39 -0500</lastBuildDate><atom:link href="https://geoytopo.github.io/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Levantamientos Topográficos</title>
-      <link>http://geoytopo.com/services/levantamientos_topograficos/</link>
+      <link>https://geoytopo.github.io/services/levantamientos_topograficos/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>http://geoytopo.com/services/levantamientos_topograficos/</guid>
+      <guid>https://geoytopo.github.io/services/levantamientos_topograficos/</guid>
       <description>Medimos los lados y superficie de su terreno. Hacemos su plano para subdividir, escriturar y delimitar. Contacto:5528521623
 Los Levantamientos Topográficos pueden incluir:  Medición de poligonal de lindero. Obtención de curvas de nivel. Ubicación de servicios (agua, luz, teléfono, drenaje, etc.) y de vialidades. Dibujo de planos a detalle.  Un Levantamiento Topográfico le sirve para:  Hacer un deslinde Base de un proyecto arquitectónico Realizar un trámite Ubicar infraestrutura dentro y fuera de su propiedad Saber la superficie o área, tamaño y forma de su terreno.</description>
     </item>
     
     <item>
       <title>Levantamientos Fotogramétricos</title>
-      <link>http://geoytopo.com/services/levantamientos-fotogrametricos/</link>
+      <link>https://geoytopo.github.io/services/levantamientos-fotogrametricos/</link>
       <pubDate>Mon, 15 Jun 2020 20:46:39 -0500</pubDate>
       
-      <guid>http://geoytopo.com/services/levantamientos-fotogrametricos/</guid>
+      <guid>https://geoytopo.github.io/services/levantamientos-fotogrametricos/</guid>
       <description>Obtenemos ortofotografías, nubes de puntos, georreferenciación de propiedades y curvas de nivel, haciendo vuelos con drone y procesamiento con software fotogramétrico.
 Los Levantamientos Fotogramétrico con drone pueden incluir:  Vuelo de Drone y toma de fotografías a lo largo y ancho del terreno. Orfotografía, resultado del procesamiento de fotografías con software fotogramétrico Pix4d Modelo Digital de Terreno: en curvas de nivel, nubes de puntos e imagen TIF. Posicionamiento de Puntos de Control Terrestre (GCP) sobre el terreno con GPS de doble frecuencia.</description>
     </item>
     
     <item>
       <title>Asesoría y Capacitacion</title>
-      <link>http://geoytopo.com/services/asesoria-y-capacitacion/</link>
+      <link>https://geoytopo.github.io/services/asesoria-y-capacitacion/</link>
       <pubDate>Mon, 15 Jun 2020 20:43:45 -0500</pubDate>
       
-      <guid>http://geoytopo.com/services/asesoria-y-capacitacion/</guid>
+      <guid>https://geoytopo.github.io/services/asesoria-y-capacitacion/</guid>
       <description>Le proporcionamos los conocimentos necesarios de Geomática y Topografía para comprender la delimitación de su propiedad.
 La mejor inversión: el conocimiento, la capacitación y el fortalecimiento de las aptitudes profesionales. Ya sea como propietario de un inmueble o como profesional del ramo topográfico e inmobiliario.
 Asesorías:  Le explicamos cómo describir los linderos de su terreno para una escrituración. Le ayudamos a comprender términos técnicos sobre Topografía y Georreferenciación que son importates para su propiedad.</description>
