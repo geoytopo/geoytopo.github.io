@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on Desarrollo, Geomática y Topografía</title>
-    <link>https://geoytopo.github.io/pagina/team/</link>
+    <link>https://geoytopo.github.io/team/</link>
     <description>Recent content in Team on Desarrollo, Geomática y Topografía</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate><atom:link href="https://geoytopo.github.io/pagina/team/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate><atom:link href="https://geoytopo.github.io/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ing. Ulises Ibarra</title>
-      <link>https://geoytopo.github.io/pagina/team/ing-ulises-ibarra/</link>
+      <link>https://geoytopo.github.io/team/ing-ulises-ibarra/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://geoytopo.github.io/pagina/team/ing-ulises-ibarra/</guid>
+      <guid>https://geoytopo.github.io/team/ing-ulises-ibarra/</guid>
       <description>Ing. Topógrafo y Geodesta, egresado de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México.</description>
     </item>
     
