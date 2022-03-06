@@ -1,5 +1,5 @@
-# baseURL = "https://github.com/geoytopo/pagina.git"
-baseURL = "https://geoytopo.com"
+baseURL = "https://geoytopo.github.io"
+# baseURL = "http://geoytopo.com"
 languageCode = "en-us"
 title = "Desarrollo, Geomática y Topografía"
 themesDir = "themes"
