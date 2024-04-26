@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos on Desarrollo, Geomática y Topografía</title>
+    <link>https://example.org/cursos/</link>
+    <description>Recent content in Cursos on Desarrollo, Geomática y Topografía</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 25 Apr 2024 22:15:15 -0600</lastBuildDate>
+    <atom:link href="https://example.org/cursos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curso Nubes De Puntos 3</title>
+      <link>https://example.org/cursos/curso-nubes-de-puntos-3/</link>
+      <pubDate>Thu, 25 Apr 2024 22:15:15 -0600</pubDate>
+      <guid>https://example.org/cursos/curso-nubes-de-puntos-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curso Nubes De Puntos 2</title>
+      <link>https://example.org/cursos/curso-nubes-de-puntos-2/</link>
+      <pubDate>Thu, 25 Apr 2024 22:15:10 -0600</pubDate>
+      <guid>https://example.org/cursos/curso-nubes-de-puntos-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curso Nubes De Puntos 1</title>
+      <link>https://example.org/cursos/curso-nubes-de-puntos-1/</link>
+      <pubDate>Thu, 25 Apr 2024 22:14:52 -0600</pubDate>
+      <guid>https://example.org/cursos/curso-nubes-de-puntos-1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
