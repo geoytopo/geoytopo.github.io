@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
   google_analytics_id = "G-V8FLBM79DZ"
   google_tag_manager_id = ""
 
-
+#
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
 

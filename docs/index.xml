@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Desarrollo, Geomática y Topografía</title>
-    <link>https://example.org/</link>
+    <link>https://geoytopo.com/</link>
     <description>Recent content in Home on Desarrollo, Geomática y Topografía</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Thu, 25 Apr 2024 22:15:15 -0600</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geoytopo.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curso Nubes De Puntos 3</title>
-      <link>https://example.org/cursos/curso-nubes-de-puntos-3/</link>
+      <link>https://geoytopo.com/cursos/curso-nubes-de-puntos-3/</link>
       <pubDate>Thu, 25 Apr 2024 22:15:15 -0600</pubDate>
-      <guid>https://example.org/cursos/curso-nubes-de-puntos-3/</guid>
+      <guid>https://geoytopo.com/cursos/curso-nubes-de-puntos-3/</guid>
       <description></description>
     </item>
     <item>
       <title>Curso Nubes De Puntos 2</title>
-      <link>https://example.org/cursos/curso-nubes-de-puntos-2/</link>
+      <link>https://geoytopo.com/cursos/curso-nubes-de-puntos-2/</link>
       <pubDate>Thu, 25 Apr 2024 22:15:10 -0600</pubDate>
-      <guid>https://example.org/cursos/curso-nubes-de-puntos-2/</guid>
+      <guid>https://geoytopo.com/cursos/curso-nubes-de-puntos-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Curso Nubes De Puntos 1</title>
-      <link>https://example.org/cursos/curso-nubes-de-puntos-1/</link>
+      <link>https://geoytopo.com/cursos/curso-nubes-de-puntos-1/</link>
       <pubDate>Thu, 25 Apr 2024 22:14:52 -0600</pubDate>
-      <guid>https://example.org/cursos/curso-nubes-de-puntos-1/</guid>
+      <guid>https://geoytopo.com/cursos/curso-nubes-de-puntos-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Primera Entrada</title>
-      <link>https://example.org/blog/primera_entrada/</link>
+      <link>https://geoytopo.com/blog/primera_entrada/</link>
       <pubDate>Thu, 25 Apr 2024 19:40:41 -0600</pubDate>
-      <guid>https://example.org/blog/primera_entrada/</guid>
+      <guid>https://geoytopo.com/blog/primera_entrada/</guid>
       <description></description>
     </item>
     <item>
       <title>Servicios</title>
-      <link>https://example.org/servicios/</link>
+      <link>https://geoytopo.com/servicios/</link>
       <pubDate>Thu, 25 Apr 2024 18:46:40 -0600</pubDate>
-      <guid>https://example.org/servicios/</guid>
+      <guid>https://geoytopo.com/servicios/</guid>
       <description>Lista de servicios: 1 Levantamientos Topograficos&#xA;2 Fotogrametria y Lidar&#xA;3 Asesoria y Capacitacion&#xA;1 Levantamientos Topograficos Medimos los lados y superficie de su terreno.</description>
     </item>
     <item>
       <title>Personal</title>
-      <link>https://example.org/personal/</link>
+      <link>https://geoytopo.com/personal/</link>
       <pubDate>Thu, 25 Apr 2024 12:27:52 -0600</pubDate>
-      <guid>https://example.org/personal/</guid>
+      <guid>https://geoytopo.com/personal/</guid>
       <description> Ing. Ulises Martín Ibarra Ing. Ulises Aux. Topografía Miguel Pérez Auxiliar Topógrafo Miguel Ing. Guillermo Montoya Ing. Guillermo </description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>https://example.org/contact/</link>
+      <link>https://geoytopo.com/contact/</link>
       <pubDate>Thu, 25 Apr 2024 09:44:06 -0600</pubDate>
-      <guid>https://example.org/contact/</guid>
+      <guid>https://geoytopo.com/contact/</guid>
       <description>Llama por teléfono, manda mensaje y correo:&#xA;Teléfono y WhatsApp: +52 5528521623&#xA;Correo: geoytopo@gmail.com</description>
     </item>
     <item>
       <title>Acerca de</title>
-      <link>https://example.org/about/</link>
+      <link>https://geoytopo.com/about/</link>
       <pubDate>Thu, 25 Apr 2024 09:34:22 -0600</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://geoytopo.com/about/</guid>
       <description>DGT (Desarrollo, Geomática y Topografía) es un Despacho de Ingeniería Geomática y Topografía.&#xA;Nuestros objetivos están descritos en la misión:</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Desarrollo, Geomática y Topografía</title>
-    <link>https://example.org/blog/</link>
+    <link>https://geoytopo.com/blog/</link>
     <description>Recent content in Blog on Desarrollo, Geomática y Topografía</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Thu, 25 Apr 2024 19:40:41 -0600</lastBuildDate>
-    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geoytopo.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primera Entrada</title>
-      <link>https://example.org/blog/primera_entrada/</link>
+      <link>https://geoytopo.com/blog/primera_entrada/</link>
       <pubDate>Thu, 25 Apr 2024 19:40:41 -0600</pubDate>
-      <guid>https://example.org/blog/primera_entrada/</guid>
+      <guid>https://geoytopo.com/blog/primera_entrada/</guid>
       <description></description>
     </item>
   </channel>
