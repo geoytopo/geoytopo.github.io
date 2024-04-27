@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = 'https://example.org/'
+baseURL = 'https://geoytopo.com/'
 languageCode = 'es'
 title = 'Desarrollo, Geomática y Topografía'
 theme = 'ezhil'
