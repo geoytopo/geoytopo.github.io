@@ -1,4 +1,4 @@
-
+publishDir = "docs"
 baseURL = 'https://example.org/'
 languageCode = 'es'
 title = 'Desarrollo, Geomática y Topografía'
