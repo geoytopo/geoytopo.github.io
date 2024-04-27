@@ -3,7 +3,7 @@ title: "Home"
 date : 2024-04-24T20:22:24-06:00
 drat: false
 ---
-# Sitio Web de Desarrollo Geomática y Topografía (geoytopo)
+**geoytopo.com es un Despacho de Geomática y Topografía**
 
 ## 1 Inicio > aquí estás
 
