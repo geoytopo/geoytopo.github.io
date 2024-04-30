@@ -17,18 +17,18 @@
       <description> Curso 1: Qué son las Nubes de Puntos Curso 2: Operaciones Básicas con Nubes de Puntos Curso 3: Obtención de MDT desde Nubes de Puntos 1 Curso 4: Obtención de MDT desde Nubes de Puntos 2 </description>
     </item>
     <item>
-      <title>Curso 4: Transformación de coordenadas en Nubes de Puntos</title>
+      <title>Curso 4: Obtención de MDT desde Nubes de Puntos 2</title>
       <link>https://geoytopo.com/curso-nubes-de-puntos-4/</link>
       <pubDate>Sat, 27 Apr 2024 16:32:37 -0600</pubDate>
       <guid>https://geoytopo.com/curso-nubes-de-puntos-4/</guid>
-      <description>El martes 30 de abril de 2024 agregaremos el temario del curso.</description>
+      <description>Curso Nube de Puntos 3 Obtención de MDT 2 Tiempo: 8 horas.&#xA;Objetivo:&#xA;Conocerás otra metodología para obtener el Modelo Digital de Terreno y harás algunos cambios en los sistemas de coordenadas, a partir de una Nube de Puntos LIDAR en formato LAS.</description>
     </item>
     <item>
       <title>Curso 3: Obtención de MDT desde Nubes de Puntos 1</title>
       <link>https://geoytopo.com/curso-nubes-de-puntos-3/</link>
       <pubDate>Thu, 25 Apr 2024 22:15:15 -0600</pubDate>
       <guid>https://geoytopo.com/curso-nubes-de-puntos-3/</guid>
-      <description>Curso Nube de Puntos 3 Obtención de MDT 1 Tiempo: 8 horas.&#xA;Objetivo :&#xA;Aprenderás a obtener el Modelo Digital de Terreno partir de un Modelo Digital de Superficie, teniendo como insumo principal una Nube de Puntos Fotogramértica en formato LAS.</description>
+      <description>Curso Nube de Puntos 3 Obtención de MDT 1 Tiempo: 8 horas.&#xA;Objetivo:&#xA;Aprenderás a obtener el Modelo Digital de Terreno partir de un Modelo Digital de Superficie, teniendo como insumo principal una Nube de Puntos LIDAR o Fotogramétrica en formato LAS.</description>
     </item>
     <item>
       <title>Curso 2: Operaciones Básicas con Nubes de Puntos</title>

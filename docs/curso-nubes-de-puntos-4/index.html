@@ -2,16 +2,20 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Curso 4: Transformación de coordenadas en Nubes de Puntos - Desarrollo, Geomática y Topografía</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:title" content="Curso 4: Transformación de coordenadas en Nubes de Puntos" />
-<meta property="og:description" content="El martes 30 de abril de 2024 agregaremos el temario del curso." />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Curso 4: Obtención de MDT desde Nubes de Puntos 2 - Desarrollo, Geomática y Topografía</title><link rel="icon" type="image/png" href=icons/myicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Curso 4: Obtención de MDT desde Nubes de Puntos 2" />
+<meta property="og:description" content="Curso Nube de Puntos 3 Obtención de MDT 2 Tiempo: 8 horas.
+Objetivo:
+Conocerás otra metodología para obtener el Modelo Digital de Terreno y harás algunos cambios en los sistemas de coordenadas, a partir de una Nube de Puntos LIDAR en formato LAS." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://geoytopo.com/curso-nubes-de-puntos-4/" /><meta property="article:section" content="" />
 <meta property="article:published_time" content="2024-04-27T16:32:37-06:00" />
 <meta property="article:modified_time" content="2024-04-27T16:32:37-06:00" />
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Curso 4: Transformación de coordenadas en Nubes de Puntos"/>
-<meta name="twitter:description" content="El martes 30 de abril de 2024 agregaremos el temario del curso."/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Curso 4: Obtención de MDT desde Nubes de Puntos 2"/>
+<meta name="twitter:description" content="Curso Nube de Puntos 3 Obtención de MDT 2 Tiempo: 8 horas.
+Objetivo:
+Conocerás otra metodología para obtener el Modelo Digital de Terreno y harás algunos cambios en los sistemas de coordenadas, a partir de una Nube de Puntos LIDAR en formato LAS."/>
 <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="https://geoytopo.com/css/normalize.css" />
@@ -74,12 +78,60 @@
 
 
 		<div class="post-header">
-			<h1 class="title">Curso 4: Transformación de coordenadas en Nubes de Puntos</h1>
+			<h1 class="title">Curso 4: Obtención de MDT desde Nubes de Puntos 2</h1>
 			<div class="meta">Posted at &mdash; Apr 27, 2024</div>
 		</div>
 
 		<div class="markdown">
-			<p>El martes 30 de abril de 2024 agregaremos el temario del curso.</p>
+			<h1 id="curso-nube-de-puntos-3-obtención-de-mdt-2">Curso Nube de Puntos 3 Obtención de MDT 2</h1>
+<p><strong>Tiempo:</strong> 8 horas.</p>
+<p><strong>Objetivo:</strong></p>
+<ul>
+<li>Conocerás otra metodología para obtener el Modelo Digital de Terreno y harás algunos cambios en los sistemas de coordenadas, a partir de una Nube de Puntos LIDAR en formato LAS.</li>
+</ul>
+<p><strong>Nivel:</strong> Intermedio</p>
+<p><strong>Qué aprenderás en este curso:</strong></p>
+<p>Al terminar este curso sabrás:</p>
+<ul>
+<li>Cómo obtener un DMT desde una nube de puntos usando el algorito llamado Filtro Morfológico Simple, provisto en el software pdal.</li>
+<li>Analizarás como elegir los parámetros del filtro de terreno.</li>
+<li>Cambiarás la proyección cartográfica y el datum vertical de la nubes de puntso.</li>
+</ul>
+<h2 id="temas">Temas:</h2>
+<h3 id="parte-ii-dtm-con-pdal">Parte II: DTM con pdal</h3>
+<h3 id="1-instalación-y-revisión-de-licencias-de-pdal-proj-y-gdal">1. Instalación y revisión de licencias de pdal, proj y gdal.</h3>
+<ul>
+<li>Instalación de Anaconda</li>
+<li>Crear un enviroment</li>
+<li>Instalar pdal</li>
+</ul>
+<h3 id="2-algunos-ejercicios-con-pdal">2. Algunos ejercicios con pdal</h3>
+<ul>
+<li>Revisar metadados</li>
+<li>Obtener Densidad</li>
+<li>Obtener Perímetros del mapeo con LIDAR (boundary)</li>
+<li>Hacer un recorte (clip)</li>
+</ul>
+<h3 id="3-el-algoritmo-sfm-para-obtención-de-dtm-con-pdal">3. El algoritmo SFM para obtención de DTM con pdal</h3>
+<ul>
+<li>Operaciones Morfológicas Elementales</li>
+<li>Revisión del algoritmo SMF (Filtro Morfológico Simple)</li>
+<li>Elegir parámetros del SMF: el provisto en el paper y los sugeridos en foros.</li>
+<li>Armar el archivo JSON con los filtros y los parámetros adecuados.</li>
+<li>Aplicación del filtro</li>
+<li>Exportar a CSV</li>
+<li>Visualizar con CloudCompare</li>
+</ul>
+<h3 id="4-transformación-de-coordenadas">4. Transformación de coordenadas</h3>
+<ul>
+<li>Ejercicios de transforamación de coordenadas con PROJ</li>
+<li>Cambio de Datum Vertical</li>
+<li>Cambio de Proyección Cartográfica</li>
+<li>Armar el archivo JSON con los filtros y los parámetros adecuados.</li>
+<li>Filtrado</li>
+<li>Revisar resultados desde metadatos y con CloudCompare</li>
+</ul>
+<h3 id="5-conclusiones-y-sesión-de-preguntas-y-respuestas">5. Conclusiones y sesión de preguntas y respuestas</h3>
 
 		</div>
 
