@@ -7,35 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sat, 27 Apr 2024 16:32:37 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:12:22 -0600</lastBuildDate>
     <atom:link href="https://geoytopo.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cursos</title>
+      <link>https://geoytopo.com/cursos/</link>
+      <pubDate>Mon, 29 Apr 2024 18:12:22 -0600</pubDate>
+      <guid>https://geoytopo.com/cursos/</guid>
+      <description> Curso 1: Qué son las Nubes de Puntos Curso 2: Operaciones Básicas con Nubes de Puntos Curso 3: Obtención de MDT desde Nubes de Puntos Curso 4: Transformación de coordenadas en Nubes de Puntos </description>
+    </item>
+    <item>
       <title>Curso 4: Transformación de coordenadas en Nubes de Puntos</title>
-      <link>https://geoytopo.com/cursos/curso-nubes-de-puntos-4/</link>
+      <link>https://geoytopo.com/curso-nubes-de-puntos-4/</link>
       <pubDate>Sat, 27 Apr 2024 16:32:37 -0600</pubDate>
-      <guid>https://geoytopo.com/cursos/curso-nubes-de-puntos-4/</guid>
+      <guid>https://geoytopo.com/curso-nubes-de-puntos-4/</guid>
       <description>El martes 30 de abril de 2024 agregaremos el temario del curso.</description>
     </item>
     <item>
       <title>Curso 3: Obtención de MDT desde Nubes de Puntos</title>
-      <link>https://geoytopo.com/cursos/curso-nubes-de-puntos-3/</link>
+      <link>https://geoytopo.com/curso-nubes-de-puntos-3/</link>
       <pubDate>Thu, 25 Apr 2024 22:15:15 -0600</pubDate>
-      <guid>https://geoytopo.com/cursos/curso-nubes-de-puntos-3/</guid>
+      <guid>https://geoytopo.com/curso-nubes-de-puntos-3/</guid>
       <description>El martes 30 de abril de 2024 agregaremos el temario del curso.</description>
     </item>
     <item>
       <title>Curso 2: Operaciones Básicas con Nubes de Puntos</title>
-      <link>https://geoytopo.com/cursos/curso-nubes-de-puntos-2/</link>
+      <link>https://geoytopo.com/curso-nubes-de-puntos-2/</link>
       <pubDate>Thu, 25 Apr 2024 22:15:10 -0600</pubDate>
-      <guid>https://geoytopo.com/cursos/curso-nubes-de-puntos-2/</guid>
-      <description>El martes 30 de abril de 2024 agregaremos el temario del curso.</description>
+      <guid>https://geoytopo.com/curso-nubes-de-puntos-2/</guid>
+      <description>Operaciones Básicas con Nubes de Puntos Tiempo: 6 horas.&#xA;Objetivos:&#xA;Aprenderas nuevas habilidades para visualizar y procesar de nubes de puntos y así mejorar los resultados de tus levantamientos de nubes de puntos Fotogramétricos y LIDAR.</description>
     </item>
     <item>
       <title>Curso 1: Qué son las Nubes de Puntos</title>
-      <link>https://geoytopo.com/cursos/curso-nubes-de-puntos-1/</link>
+      <link>https://geoytopo.com/curso-nubes-de-puntos-1/</link>
       <pubDate>Thu, 25 Apr 2024 22:14:52 -0600</pubDate>
-      <guid>https://geoytopo.com/cursos/curso-nubes-de-puntos-1/</guid>
-      <description>El martes 30 de abril de 2024 agregaremos el temario del curso.</description>
+      <guid>https://geoytopo.com/curso-nubes-de-puntos-1/</guid>
+      <description>Qué son las Nubes de Puntos, una introducción. Tiempo: 4 a 5 horas.&#xA;Objetivo: Tener un primer acercamiento con las nubes de puntos, conocer su naturaleza y origen.</description>
     </item>
     <item>
       <title>Primera Entrada</title>
