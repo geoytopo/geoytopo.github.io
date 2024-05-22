@@ -4,6 +4,7 @@ date = 2024-04-29T18:12:22-06:00
 draft = false
 +++
 
+* [Curso 00: **curvasdenivel**]({{< relref "curvasdenivel.md" >}})-->(CURSO SENCILLO Y PODEROSO: Curvas de nivel desde Nubes de Puntos)
 * [Curso 1: Qué son las Nubes de Puntos]({{< relref "curso-nubes-de-puntos-1.md" >}})
 * [Curso 2: Operaciones Básicas con Nubes de Puntos]({{< relref "curso-nubes-de-puntos-2.md" >}})
 * [Curso 3: Obtención de MDT desde Nubes de Puntos 1]({{< relref "curso-nubes-de-puntos-3.md" >}})
